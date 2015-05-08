@@ -1,0 +1,1 @@
+console.log('load version 1.0.0');
